@@ -4,6 +4,7 @@ description: Lecture notes about high-latitude deserts and a brief summary of de
   features.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-090-the-environment-of-the-earths-surface-spring-2007/5544e3036c6783ca1beb59a8a9f02a98_earthsurface_9.pdf
 file_type: application/pdf
+parent_uid: e5547d7d-e7a0-a5c7-9c95-7d9da9851ca6
 resourcetype: Document
 title: earthsurface_9.pdf
 uid: 5544e303-6c67-83ca-1beb-59a8a9f02a98
